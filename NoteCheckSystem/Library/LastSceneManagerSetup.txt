@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/\u97F3\u7B26\u6AA2\u67E5\u7CFB\u7D71.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
